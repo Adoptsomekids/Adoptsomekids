@@ -1,4 +1,6 @@
   ✨ Hi! I'am Emilio Josafat 😸 <br>
+  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adoptsomekids)
 
 ![gif-piolin-9](https://user-images.githubusercontent.com/83385717/236990386-5b1a2c21-46b3-419f-8e93-7038df142af2.gif)
 
