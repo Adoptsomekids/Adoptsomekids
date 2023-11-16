@@ -5,14 +5,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adoptsomekids/?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 
 
-## ⚒️ My projects
+## ⚒️ My favorite projects
 
 | Name | Description | Demo |
 |--|--|--|
-| [Cadáver Exquisito](https://www.cadaverexquisito.xyz/) | It's a wordplay where your friends and you write a poem or story together, but you just could see what the previous person wrote. At the end of the game, you will see the result of the collective consciousness of your group. | ![Cadáver Exquisito](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1683394703/website/projects/ce_en_01_x4g2yp.png) |
-| [APOD App](https://apod-app-guirdo.vercel.app/) | A front-end app for the Astronomical Picture Of the Day API from NASA.| ![APOD App](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677338686/website/projects/apod-app_i8d5c5.png) |
-| [Imperambiental](https://imperambiental.com) | A landing page made by me and a friend for a local business. | ![Imperambiental](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677534956/website/projects/imperambiental_omjwtr.png) |
-| [MusTalk](https://mustalk.vercel.app/home) | A social network where people share their music taste and talk about why they like that song. | ![MusTalk](https://res.cloudinary.com/dyuo7wfyi/image/upload/v1677594695/website/projects/mustalk_ormvre.png) |
+| [Sistema de monitoreo activo para la Red Estatal Digital de Jalisco](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco) | Telecommunications Network Project for the municipalities of the State Red Jalisco) with the objective of expanding connectivity coverage, reducing the Digital gap and enhancing communications in the regions of the State. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/7d8ec51b-2a3b-4e30-9e31-e9f8177a8f1d) |
+| [TelegramBot Red Jalisco Hemac](https://github.com/Adoptsomekids/TelegramBot-Red-Jalisco-Hemac) | Telegram bot for the state project Red Jalisco.| ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/212b5035-302c-4f42-86e9-680621efe82d) |
+| [Piolin Bird game](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame) | Piolin Bird game in Phaser 3. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/b635cfa8-42a7-4108-a7da-aca5bd22ce77) |
 
 ## 🤝 Projects which I contribute:
 
