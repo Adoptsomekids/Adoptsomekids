@@ -22,16 +22,9 @@
 
 | Use case | Technology |
 |---|---|
-| Programming languages | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)|
-|  CSS pre & post processors | ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat-square)|
+| Programming languages |  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| Operating systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) |
 |  Web development | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  |
-| Operative System* | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-<small>*BTW, I use Manjaro </small>
-
-## Github stats:
-
-![https://github-readme-stats.vercel.app/api?username=Guirdo](https://github-readme-stats.vercel.app/api?username=Guirdo&show_icons=true&theme=dark)
 
 ## 🔎 Where you can find me
 
@@ -39,10 +32,12 @@
 - Send me an email, [let's get in touch](emiliogiacomog@gmail.com)
 - Check out my [resume](https://drive.google.com/file/d/1gx_5b0WLmMXVElOzKSc_VCSQDB0afj33/view?usp=sharing)
 
+
+
+
+  ❓ Ask me about: Taquitos de canasta, Linux & CySec 😈 <br>
+  
 ![gif-piolin-9](https://user-images.githubusercontent.com/83385717/236990386-5b1a2c21-46b3-419f-8e93-7038df142af2.gif)
-
-  ❓ Ask me about: Taquitos de canasta, Linux & CySec 😈 <br> 
-
 
 ![Snake animation](https://github.com/andrekolodochka/andrekolodochka/blob/output/github-contribution-grid-snake.svg)
 
