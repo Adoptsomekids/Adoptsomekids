@@ -1,6 +1,7 @@
 #  ✨ Hi! I'am Emilio Josafat GQ's 😸 <br>
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adoptsomekids)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emiliogiacomog@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-josafat-giacomo-quintero-3b5959243/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adoptsomekids/?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)
 
