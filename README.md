@@ -11,8 +11,8 @@
 | Name | Description | Demo |
 |--|--|--|
 | [Sistema de monitoreo activo para la Red Estatal Digital de Jalisco](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco) | Telecommunications Network Project for the municipalities of the State Red Jalisco) with the objective of expanding connectivity coverage, reducing the Digital gap and enhancing communications in the regions of the State. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/7d8ec51b-2a3b-4e30-9e31-e9f8177a8f1d) |
-| [TelegramBot Red Jalisco Hemac](https://github.com/Adoptsomekids/TelegramBot-Red-Jalisco-Hemac) | Telegram bot for the state project Red Jalisco.| ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/212b5035-302c-4f42-86e9-680621efe82d) |
-| [Piolin Bird game](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame) | Piolin Bird game in Phaser 3. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/b635cfa8-42a7-4108-a7da-aca5bd22ce77) |
+| [TelegramBot Red Jalisco - Hemac](https://github.com/Adoptsomekids/TelegramBot-Red-Jalisco-Hemac) | Telegram bot for the state project Red Jalisco.| ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/212b5035-302c-4f42-86e9-680621efe82d) |
+| [JavaScript & Phaser Piolin Bird game](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame) | Piolin Bird game in Phaser 3. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/b635cfa8-42a7-4108-a7da-aca5bd22ce77) |
 
 ## 🤝 Projects which I contribute:
 
@@ -37,7 +37,7 @@
 
   ❓ Ask me about: Taquitos de canasta, Linux & CySec 😈 <br>
   
-![gif-piolin-9](https://user-images.githubusercontent.com/83385717/236990386-5b1a2c21-46b3-419f-8e93-7038df142af2.gif)
+![linux-linux-power](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/74869cdc-34e9-4ea3-a36d-4dcfa5ed681b)
 
 ![Snake animation](https://github.com/andrekolodochka/andrekolodochka/blob/output/github-contribution-grid-snake.svg)
 
