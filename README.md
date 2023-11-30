@@ -1,4 +1,6 @@
-#  ✨ Hi! I'am Emilio Josafat GQ's 😸 <br>
+# ✨ Hi! I'm Emilio Josafat GQ's 😸
+<img align="right" width="100" src="https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/ec732a89-a4ae-488f-bb46-90a6e8053b54.gif" alt="Descripción del GIF" />
+
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adoptsomekids)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emiliogiacomog@gmail.com)
@@ -37,7 +39,7 @@
 
   ❓ Ask me about: Taquitos de canasta, Linux & CySec 😈 <br>
   
-![linux-linux-power](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/74869cdc-34e9-4ea3-a36d-4dcfa5ed681b)
+![mr-free-super-tux](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/533246d7-a053-4b2c-a59a-d16aa04429ff)
 
 ![Snake animation](https://github.com/andrekolodochka/andrekolodochka/blob/output/github-contribution-grid-snake.svg)
 
