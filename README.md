@@ -1,4 +1,4 @@
-# ✨ Hi! I'm Emilio Josafat GQ's 😸
+# ✨ Hi! I'm Emilio Josafat GQ's 🐱
 <img align="right" width="100" src="https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/ec732a89-a4ae-488f-bb46-90a6e8053b54.gif" alt="Descripción del GIF" />
 
 
@@ -12,13 +12,13 @@
 
 | Name | Description | Demo |
 |--|--|--|
-| [Sistema de monitoreo activo para la Red Estatal Digital de Jalisco](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco) | Telecommunications Network Project for the municipalities of the State Red Jalisco) with the objective of expanding connectivity coverage, reducing the Digital gap and enhancing communications in the regions of the State. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/7d8ec51b-2a3b-4e30-9e31-e9f8177a8f1d) |
+| [Active Monitoring System for the Jalisco State Digital Network](https://github.com/Adoptsomekids/Sistema-de-monitoreo-activo-Red-Estatal-Digital-Jalisco) | Telecommunications Network Project for the municipalities of the State Red Jalisco) with the objective of expanding connectivity coverage, reducing the Digital gap and enhancing communications in the regions of the State. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/7d8ec51b-2a3b-4e30-9e31-e9f8177a8f1d) |
 | [TelegramBot Red Jalisco - Hemac](https://github.com/Adoptsomekids/TelegramBot-Red-Jalisco-Hemac) | Telegram bot for the state project Red Jalisco.| ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/212b5035-302c-4f42-86e9-680621efe82d) |
 | [JavaScript & Phaser Piolin Bird game](https://github.com/Adoptsomekids/Piolin-Bird-Phaser-Videogame) | Piolin Bird game in Phaser 3. | ![image](https://github.com/Adoptsomekids/Adoptsomekids/assets/83385717/b635cfa8-42a7-4108-a7da-aca5bd22ce77) |
 
 ## 🤝 Projects which I contribute:
 
-- [D03](https://github.com/): I give feedback to... You'll see it soon. 
+- [watsonx Day Challenge! ](https://community.ibm.com/community/user/watsonx/blogs/nickolus-plowden/2024/02/29/get-ready-for-the-watsonx-day-challenge): IBM is hosting a 27 hour “watsonx Day: Challenge” for AI enthusiasts to build and increase their generative AI skills with watsonx.
 
 ## My Tech Stack:
 
@@ -32,7 +32,7 @@
 
 - Connect with me on [LinkedIn](www.linkedin.com/in/emilio-giacomo)
 - Send me an email, [let's get in touch](emiliogiacomog@gmail.com)
-- Check out my [resume](https://drive.google.com/file/d/1gx_5b0WLmMXVElOzKSc_VCSQDB0afj33/view?usp=sharing)
+- Check out my [resume](https://drive.google.com/file/d/1Xsld71J2rb_LXuyOrkCbuwuEPVtDiNq6/view?usp=sharing)
 
 
 
